@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+
+@theme {
+  --color-back1: rgba(19,24,38,255);
+  --color-shadow: #4a96e5;
+  --color-button: #64ecfd;
+}
